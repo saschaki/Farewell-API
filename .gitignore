@@ -8,3 +8,9 @@
     *.tmp
     *~
     *.bak 
+  # secrets
+     .env
+    secrets.json
+  # others
+config.json
+help.txt
